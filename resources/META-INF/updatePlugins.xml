@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugins>
+  <plugin id="custom-commit-template-plugin"
+          url="https://raw.githubusercontent.com/cyclica/custom-commit-template-plugin/master/commit-template-plugin/resources/META-INF/mypluginname.jar"
+          version="1.0.0">
+
+    <idea-version since-build="145.0"/>
+  </plugin>
+</plugins>
