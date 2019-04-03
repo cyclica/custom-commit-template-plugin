@@ -1,4 +1,4 @@
-package com.leroymerlin.commit;
+package com.cyclica.commit;
 
 import com.intellij.openapi.project.Project;
 import com.intellij.openapi.ui.DialogWrapper;
@@ -6,9 +6,6 @@ import org.jetbrains.annotations.Nullable;
 
 import javax.swing.*;
 
-/**
- * @author Damien Arrachequesne
- */
 public class CommitDialog extends DialogWrapper {
 
     private final CommitPanel panel;

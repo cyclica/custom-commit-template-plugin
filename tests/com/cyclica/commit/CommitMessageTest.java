@@ -1,9 +1,12 @@
-package com.leroymerlin.commit;
+package com.cyclica.commit;
 
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
+/**
+Need to update these tests
+*/
 public class CommitMessageTest {
 
     @Test

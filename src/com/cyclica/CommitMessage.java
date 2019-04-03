@@ -1,12 +1,10 @@
-package com.leroymerlin.commit;
+package com.cyclica.commit;
 
 import org.apache.commons.lang.WordUtils;
 
 import static org.apache.commons.lang.StringUtils.isNotBlank;
 
-/**
- * @author Damien Arrachequesne <damien.arrachequesne@gmail.com>
- */
+
 class CommitMessage {
     private static final int MAX_LINE_LENGTH = 72; // https://stackoverflow.com/a/2120040/5138796
     private final String content;

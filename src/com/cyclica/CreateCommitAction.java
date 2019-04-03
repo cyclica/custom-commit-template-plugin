@@ -1,4 +1,4 @@
-package com.leroymerlin.commit;
+package com.cyclica.commit;
 
 import com.intellij.openapi.actionSystem.AnAction;
 import com.intellij.openapi.actionSystem.AnActionEvent;
@@ -9,9 +9,7 @@ import com.intellij.openapi.vcs.VcsDataKeys;
 import com.intellij.openapi.vcs.ui.Refreshable;
 import org.jetbrains.annotations.Nullable;
 
-/**
- * @author Damien Arrachequesne
- */
+
 public class CreateCommitAction extends AnAction implements DumbAware {
 
     @Override

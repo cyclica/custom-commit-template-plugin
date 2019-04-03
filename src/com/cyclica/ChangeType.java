@@ -1,4 +1,4 @@
-package com.leroymerlin.commit;
+package com.cyclica.commit;
 
 /**
  * From https://github.com/commitizen/conventional-commit-types

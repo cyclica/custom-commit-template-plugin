@@ -1,4 +1,4 @@
-package com.leroymerlin.commit;
+package com.cyclica.commit;
 
 import com.intellij.openapi.project.Project;
 import com.intellij.openapi.vfs.VfsUtil;

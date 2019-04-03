@@ -1,4 +1,4 @@
-package com.leroymerlin.commit;
+package com.cyclica.commit;
 
 import java.io.BufferedReader;
 import java.io.File;
