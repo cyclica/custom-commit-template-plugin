@@ -2,7 +2,7 @@
 
 ```
 NOTE: This is modified from the following 3rd party plugin:
-`https://plugins.jetbrains.com/plugin/9861-git-commit-template`
+https://plugins.jetbrains.com/plugin/9861-git-commit-template
 ```
  
 This plugin allows to create a commit message with the following template:
