@@ -1,0 +1,35 @@
+[Type]([Complexity]): [Short Description]
+#
+#BREAKS: [Breaking Changes]
+#CLOSES #[Issue Number]
+#
+#EXTRA DETAILS:[Details]
+#
+#
+# Type: (Required) Is one of the following:
+#
+# FEAT: Implementation of a new feature
+# BUG: Bug fix
+# DOC: Update documentation/comments ONLY
+# STYLE: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
+# REFACT: A code refactor that neither fixes a bug nor adds a feature
+# PERF: Optimization of code(with regards to time and memory)
+# TEST: Updated/Added test code
+# BUILD: Changes that affect the build system or external dependencies (npm, python modules...)
+# CI: Modifications to the continuous integration configuration files and scripts
+# REVERT: Revert a previous commit
+# OTHER: Other changes that aren't covered by the above categories
+#
+# Complexity: (Required) Is an integer from 1 to 5 inclusive.
+#
+# 1: Single simple line change.
+# 2: Touched code that is used only within the scope of the same file with simple logic.
+# 3: Touched code that is used by many other files.
+# 4: Touched many files with simple logic or touched a single file with complex logic.
+# 5: Touching many files and many functionalities with complex logic.
+#
+# Short Description: (Required) No more than 50 characters.
+#
+# Breaking Changes: (Optional) Things that are no longer backwards compatible.
+# Issue Number: (Optional) The related issue or Ticket number
+# Extra Details: (Optional) Any other details you would like to add.
