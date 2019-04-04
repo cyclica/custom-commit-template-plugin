@@ -1,5 +1,7 @@
 [Type]-[Complexity]:[Short Description]
-#
+########################################################################<-72 char limit for commit headline
+# Remove the octothorpe(#) at the beginning of a line to include it in the commit message
+# Including blank line for better formatting of the commit message
 #BREAKS: [Breaking Changes]
 #CLOSES #[Issue Number]
 #
