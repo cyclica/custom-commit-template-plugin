@@ -1,4 +1,4 @@
-[Type]([Complexity]): [Short Description]
+[Type]-[Complexity]:[Short Description]
 #
 #BREAKS: [Breaking Changes]
 #CLOSES #[Issue Number]
@@ -28,7 +28,7 @@
 # 4: Touched many files with simple logic or touched a single file with complex logic.
 # 5: Touching many files and many functionalities with complex logic.
 #
-# Short Description: (Required) No more than 50 characters.
+# Short Description: (Required) No more than 63 characters.(72 - 9 from the type and complexity)
 #
 # Breaking Changes: (Optional) Things that are no longer backwards compatible.
 # Issue Number: (Optional) The related issue or Ticket number
