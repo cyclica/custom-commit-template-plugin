@@ -2,7 +2,7 @@
 
 <plugins>
   <plugin id="custom-commit-template-plugin"
-          url="https://raw.githubusercontent.com/cyclica/custom-commit-template-plugin/master/commit-template-plugin/resources/META-INF/mypluginname.jar"
+          url="https://raw.githubusercontent.com/cyclica/custom-commit-template-plugin/master/custom_commit_template_plugin.jar"
           version="1.0.0">
 
     <idea-version since-build="145.0"/>
